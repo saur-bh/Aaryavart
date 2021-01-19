@@ -36,7 +36,6 @@ h1{
 #features{
     background-color: #e99fa5;
    
-     padding: 7% 15%;
 }
 h3{
 
@@ -53,10 +52,8 @@ h2{
 /* Testimonial */
 .earlyadapter{
    
-    width: 400px;
-    height: 400px;
-    margin: 10px 10px 10px 10px;
-    
+    width: 800px;
+    height:800px;
     border-radius: 20%;
 }
 
